@@ -9,4 +9,5 @@ public class Player {
     void guess() {
         number = scanner.nextInt();
     }
+
 }
