@@ -1,4 +1,4 @@
-import game.GuessGame;
+import guessinggame.GuessGame;
 
 public class Main {
     public static void main(String[] args) {
